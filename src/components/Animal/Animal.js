@@ -1,5 +1,5 @@
 import React from 'react';
-//import animal from './animal.css';
+// import './Animal.css';
 
 //import { animals } from '../data.js';
 

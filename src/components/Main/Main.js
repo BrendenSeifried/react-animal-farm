@@ -1,5 +1,6 @@
 import React from 'react';
 import './Main.css';
+import '../Animal/Animal.css';
 
 import background from './background.png';
 import Animal from '../Animal/Animal.js';
