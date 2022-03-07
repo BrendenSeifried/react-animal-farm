@@ -15,25 +15,3 @@ export default function Main() {
   );
 }
 
-
-// export default function Main() {
-//   return (
-//     <div className="main" style={{ backgroundImage: `url(${background})` }}>
-//       <main />
-//     </div>
-//   );
-// }
-
-
-// import { animals } from '../data.js';
-
-// export default function Animal() {
-//   return (
-//     <>
-//       {animals.map((animal) => (
-//         <Animal key='' name={animal.name} type={animal.type} says={animal.says} top={animal.top} left={animal.left} />
-//       ))}
-//     </>
-//   );
-// }
-

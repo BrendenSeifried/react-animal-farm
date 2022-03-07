@@ -1,9 +1,4 @@
 import React from 'react';
-// import './Animal.css';
-
-//import { animals } from '../data.js';
-
-
 
 export default function Animal({ name, says, top, left, type }) {
   return (
@@ -15,14 +10,4 @@ export default function Animal({ name, says, top, left, type }) {
   );
 }
 
-// export default function Animal() {
-//   return (
-//     <>
-//       {animals.map((animal) => (
-//         <Animal key='' name={animal.name} type={animal.type} says={animal.says} top={animal.top} left={animal.left} />
-//       ))}
-//     </>
-//   );
-// }
 
-//---------Left the above code to show how I was originally doing it until Josh helped me out 
